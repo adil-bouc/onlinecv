@@ -1,0 +1,24 @@
+{
+  "name": "cg-next-scrolltrigger",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@studio-freight/react-lenis": "^0.0.47",
+    "gsap": "^3.12.5",
+    "lenis": "^1.1.13",
+    "next": "14.2.7",
+    "react": "^18",
+    "react-dom": "^18",
+    "three": "^0.168.0"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.7"
+  }
+}
